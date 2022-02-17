@@ -1,1 +1,1 @@
-[<img src="/images/baahum.png">]
+<img src="/docs/images/baahum.png">
