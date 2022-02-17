@@ -1,1 +1,1 @@
-Baahum website coming soon
+<img src="/images/baahum.png">
