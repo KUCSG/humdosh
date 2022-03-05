@@ -1,11 +1,12 @@
 <img src="images/humdosh.jpeg">
 
-[![Session #1 video]({https://youtu.be/4gnY0ViDNKo} "Session #1")
 
-[![Session #2 video]({https://youtu.be/G4fH-ran6Mw} "Session #2")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4gnY0ViDNKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Session #3 video]({https://youtu.be/71A2pbJh834} "Session #3")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G4fH-ran6Mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Session #4 video]({https://youtu.be/p9DPGHVZ-YU} "Session #4")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/71A2pbJh834" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p9DPGHVZ-YU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
