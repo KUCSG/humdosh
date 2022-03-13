@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg916"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="humdoshlogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview918"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:snap-grids="true"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="212.83914"
+     inkscape:cy="576.29203"
+     inkscape:window-width="1284"
+     inkscape:window-height="1040"
+     inkscape:window-x="2286"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs913">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient22764">
+      <stop
+         style="stop-color:#008000;stop-opacity:1;"
+         offset="0"
+         id="stop22760" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop22762" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient13253">
+      <stop
+         style="stop-color:#008000;stop-opacity:1;"
+         offset="0"
+         id="stop13249" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop13251" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13253"
+       id="linearGradient27296"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(73.509924,-6.612027)"
+       x1="164.58911"
+       y1="-108.82091"
+       x2="164.41521"
+       y2="-104.04864" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22764"
+       id="linearGradient27298"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-70.523046,-8.0818776)"
+       x1="-140.0965"
+       y1="72.468819"
+       x2="-138.76038"
+       y2="82.799721" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline;opacity:1;mix-blend-mode:darken">
+    <path
+       style="fill:#008000;stroke:#008000;stroke-width:0.969471;stroke-opacity:1"
+       d="M 112.3452,159.02578 C 103.04123,156.32756 94.991956,149.1258 91.310214,140.20564 89.269613,135.26163 89.098647,133.20432 88.982146,112.19237 88.840486,86.663998 88.233853,83.384857 83.167849,80.768883 78.576716,78.398121 66.571836,78.665566 60.372983,81.276702 l -4.72475,1.990216 v 24.147872 24.14784 H 42.22 28.791767 V 84.790505 38.018397 H 42.22 55.648233 v 16.535589 c 0,9.140653 0.399432,16.535625 0.893149,16.535625 0.491235,0 2.841178,-1.066239 5.222091,-2.369414 10.779638,-5.900122 26.37837,-7.807614 37.718996,-4.612493 10.173581,2.866341 16.821671,11.508598 16.835921,21.886041 l 0.006,4.037882 7.70879,-0.562651 c 7.27083,-0.530687 16.61568,0.980211 23.37509,3.779346 1.61587,0.669169 1.7407,-0.336713 1.7407,-14.026054 V 64.475349 h 12.93089 12.93089 v 46.772111 46.77212 h -12.93089 -12.93089 v -3.30711 c 0,-1.81893 -0.21709,-3.30714 -0.4824,-3.30714 -0.26523,0 -2.61526,1.236 -5.22208,2.74666 -2.60685,1.51066 -7.17092,3.42407 -10.14236,4.25202 -5.58835,1.55712 -16.60422,1.88394 -20.95646,0.62177 z m 32.57593,-16.73247 4.2274,-1.43806 v -17.34657 c 0,-10.52706 -0.39045,-17.57581 -0.99313,-17.92966 -2.08479,-1.22397 -14.57184,-1.59804 -18.60666,-0.55739 -5.16928,1.33324 -10.07467,5.14507 -11.86802,9.22227 -1.81105,4.11746 -1.7781,18.31134 0.0523,22.4725 3.23992,7.36607 14.89865,9.75753 27.18823,5.57691 z"
+       id="path1098-4"
+       inkscape:export-filename="C:\Users\ZZBPRC\Documents\GitHub\humdosh\branding\humdoshlogo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:24.8542px;line-height:1.25;font-family:Gadugi;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.621353;-inkscape-font-specification:'Gadugi, Bold';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="-106.43372"
+       y="56.135166"
+       id="text38148-5"
+       transform="matrix(0.02915907,-1.1087148,0.90116784,0.02955845,0,0)"
+       inkscape:export-filename="C:\Users\ZZBPRC\Documents\GitHub\humdosh\branding\humdoshlogo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan38146-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.85419975px;font-family:Gadugi;-inkscape-font-specification:'Gadugi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.621353"
+         x="-106.43372"
+         y="56.135166">همدوش</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1645px;line-height:1.25;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.35411"
+       x="80.348297"
+       y="-149.14548"
+       id="text38152-6"
+       transform="matrix(0.00701614,0.94401077,-1.0592461,0.00859331,0,0)"
+       inkscape:export-filename="C:\Users\ZZBPRC\Documents\GitHub\humdosh\branding\humdoshlogo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan38150-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1645px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.35411"
+         x="80.348297"
+         y="-149.14548">HUMDOSH</tspan></text>
+  </g>
+</svg>
